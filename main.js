@@ -1,1 +1,1 @@
-alert('I want to kil you, will that be okay?');
+alert('I want to kill you, will that be okay?');
