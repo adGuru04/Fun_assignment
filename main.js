@@ -1,0 +1,1 @@
+alert('I want to kil you, will that be okay?');
